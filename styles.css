@@ -1,0 +1,128 @@
+.page{
+    background-color: aliceblue;
+    margin-top: -33px
+}
+header{
+    background-color: black;
+    height: 60px;
+}
+header img{
+    height:60px
+}
+.container > h1{
+    text-align: center;
+    padding-right:10%;
+    font-family: 'orbitron', sans-serif;
+    font-size: 50px;
+    padding-top: 20px;
+}
+.container > img{
+    height: 300px;
+    float : right;
+    margin-right: 15%
+}
+.container > p{
+    width: 30%;
+    margin-left:30%;
+    padding-top: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.container > h2{
+    margin-left: 34%;
+    margin-top: 100px;
+    font-family: 'orbitron', sans-serif;
+} 
+.education img{
+    height: 35px;
+    float: left;
+    padding-top: 5px;
+}   
+.education > h1,.skills > h1,.projects > h1{
+    margin-top: 120px;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    padding-top: 10px;
+    padding-right:5%;
+    text-align: center;
+    font-family: 'orbitron', sans-serif;
+    font-size: 40px
+}
+.education > h2, h3, .education > p{
+    text-align: center;
+}
+.kijabe{
+    border-top: 1px solid grey;
+    margin-top : 50px;
+    padding-top: 10px;
+}
+.skills img{
+    height: 300px;
+    float: left;
+    margin-left: 100px;
+    border-radius: 20px
+}
+.skills > p{
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-left: 25%;
+    font-size: 20px;
+    margin-top: 10%;
+}
+.skills > ul{
+    list-style-type: none;
+    
+}
+.skills > ul > li{
+    display: inline;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding: 40px;
+    font-weight: bold;
+    font-size: 20px
+}
+.projects{
+    margin-top: 25%
+}
+.projects img{
+    height: 200px;
+    border-radius: 50%;
+    padding: 120px;
+    
+    
+}
+.projects h1{
+    padding-top: 30px;
+}
+.media ul{
+    list-style-type: none;
+    float: right;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+.media ul li a{
+      color: white;
+}
+.media ul li a:hover{
+      color: blue;
+}
+.media ul li a i{
+    height: 30px;
+}
+footer{
+    height: 210px;
+    border: hidden;
+    background-color:black;
+}
+.copyright{
+    text-align: center;
+    padding-top: 35px;
+    color: gold;
+}
+.contacts{
+    padding-top:20px;
+}
+.contacts ul{
+    list-style-type: none;
+}
+.contacts ul li{
+    margin: 20px;
+    color: gold;
+}
