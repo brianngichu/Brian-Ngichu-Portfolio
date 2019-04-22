@@ -8,6 +8,5 @@ Html and Css
 ## Support and contact details
 brianngichu@gmail.com
 ### License
-*See below for more details on licensing*
 Copyright (c) 2019 **Brian Ngichu**
   
