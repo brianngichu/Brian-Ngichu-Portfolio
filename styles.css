@@ -1,17 +1,17 @@
 .page{
-    background-color: aliceblue;
-    margin-top: -33px
+    background-color:#ebedc7;
+    margin-top: -33px;
 }
 header{
     background-color: black;
     height: 60px;
 }
 header img{
-    height:60px
+    height: 60px;
 }
 .container > h1{
     text-align: center;
-    padding-right:10%;
+    padding-right: 10%;
     font-family: 'orbitron', sans-serif;
     font-size: 50px;
     padding-top: 20px;
@@ -19,11 +19,11 @@ header img{
 .container > img{
     height: 300px;
     float : right;
-    margin-right: 15%
+    margin-right: 15%;
 }
 .container > p{
     width: 30%;
-    margin-left:30%;
+    margin-left: 30%;
     padding-top: 20px;
     font-family: 'Roboto Condensed', sans-serif;
 }
@@ -42,10 +42,10 @@ header img{
     border-top: 1px solid grey;
     border-bottom: 1px solid grey;
     padding-top: 10px;
-    padding-right:5%;
+    padding-right: 5%;
     text-align: center;
     font-family: 'orbitron', sans-serif;
-    font-size: 40px
+    font-size: 40px;
 }
 .education > h2, h3, .education > p{
     text-align: center;
@@ -59,7 +59,7 @@ header img{
     height: 300px;
     float: left;
     margin-left: 100px;
-    border-radius: 20px
+    border-radius: 20px;
 }
 .skills > p{
     font-family: 'Roboto Condensed', sans-serif;
@@ -76,17 +76,15 @@ header img{
     font-family: 'Roboto Condensed', sans-serif;
     padding: 40px;
     font-weight: bold;
-    font-size: 20px
+    font-size: 20px;
 }
 .projects{
-    margin-top: 25%
+    margin-top: 25%;
 }
 .projects img{
     height: 200px;
     border-radius: 50%;
     padding: 120px;
-    
-    
 }
 .projects h1{
     padding-top: 30px;
@@ -117,7 +115,7 @@ footer{
     color: gold;
 }
 .contacts{
-    padding-top:20px;
+    padding-top: 20px;
 }
 .contacts ul{
     list-style-type: none;
@@ -125,4 +123,19 @@ footer{
 .contacts ul li{
     margin: 20px;
     color: gold;
+}
+.message > h2{
+    padding-left: 20px;
+}
+input{ 
+    display: block;
+    margin: 20px;
+    padding: 15px;
+    width:600px;
+}
+#box{
+    height: 150px;
+}
+#submit{
+    width:100px;
 }
